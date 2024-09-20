@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Database and Local Environment
+.env
+config/config.json
+
+# Editor Directories and Files
+.vscode/
+.idea/
+.DS_Store
+
+# OS Files
+Thumbs.db
